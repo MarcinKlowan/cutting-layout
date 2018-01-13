@@ -1,0 +1,294 @@
+.container-fluid.pierwszy {
+    background: url(zdjecie1.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.container-fluid.trzeci {
+    background-color:  rgb(116, 191, 238);
+    height: auto;
+}
+
+
+.tekst1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color:#ffffff;
+    line-height: 35px;
+    font-weight: 500px;
+    font-style: normal;
+    padding-top: 30px;
+}
+
+.container-fluid.czwarty{
+    background: url(zdjecie2.jpg);
+    background-size: cover;
+}
+
+.more{
+    margin-top: 30px;
+}
+
+.container.piaty {
+    margin-top:  30px;
+}
+
+.photos {
+    margin-top: 30px;
+    
+}
+.container-fluid.szosty {
+    background-color:  rgb(116, 191, 238);
+    margin-top: 40px;
+    height: 100px;
+}
+
+.napis {
+    text-align: center;
+    margin-top: 220px;
+}
+
+.napis1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:#212529;
+    line-height: 21px;
+    font-weight: 500px;
+    font-style: normal;
+}
+
+.container-fluid.siodmy {
+    background: url(zdjecie7.jpg);
+    background-size: cover;
+    height: 500px;
+}
+
+#pierwszy {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:#ffffff;
+    line-height: 30px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.drugi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color:#212529;
+    line-height: 35px;
+    font-weight: 500px;
+    font-style: normal;
+}
+
+.trzeci {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 30px;
+    font-weight: 300px;
+    font-style: normal;
+}
+
+.center {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #161515;
+    line-height: 39px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    
+    
+}
+
+.photo1 {
+    position: relative;
+    top: -50%;
+}
+
+.zdjecia {
+    text-align: center;
+
+}
+.work {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 32px;
+    line-height: 35px;
+    color: #212529;
+}
+
+.view {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+    
+}
+.click {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.resist {
+   text-align: center;
+   margin-top: 15px;
+  
+}
+.img-fluid{
+    max-width: 100%;
+}
+
+.tekst{
+    text-align: center;
+    margin-top: 30px;
+   
+}
+
+.photo {
+    width: 100%;
+    margin: 3px;
+   
+  }
+
+.przycisk {
+   text-align: center;
+}
+
+
+
+.card-footer {
+    text-align: center;
+}
+
+.boot {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 26px;
+    color: #212529;
+}
+
+.place {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212529;
+}
+
+.mail{
+    color: blue;
+}
+
+.copy {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #868e96;;
+}
+
+.gora {
+  
+    display: inline-block;
+}
+.phon{
+    background-size: cover;
+    height: 220px;
+}
+.zdjecie3 {
+    background-image: url(zdjecie3.jpg);
+   
+}
+
+.zdjecie4 {
+    background-image: url(zdjecie4.jpg);
+   
+}
+
+.zdjecie5 {
+    background-image: url(zdjecie5.jpg);
+    
+}
+
+.zdjecie6 {
+    background-image: url(zdjecie6.jpg);
+  
+}
+
+.phon1 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.service {
+    font-size: 10px;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 26px;
+    color: #ffffff;
+    text-align: center;
+}
+.loreum {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+}
+
+.spr{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.spr1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.container.pierwszy {
+    margin-top: 30px;
+}
+@media (min-width: 576px) {
+
+    .center {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 72px;
+        color: #ffffff;
+        line-height: 79px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+        
+    }
+
+    .napis1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 28px;
+        color:#212529;
+        line-height: 31px;
+        font-weight: 500px;
+        font-style: normal;
+    }
+
+ }
